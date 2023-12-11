@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Khajon11&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ### All my fans <3
-[![](https://visitcount.itsvg.in/api?id=Khajon11&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Khajon11&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/khajon11) 
